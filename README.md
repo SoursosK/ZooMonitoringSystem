@@ -1,2 +1,3 @@
 # ZooMonitoringSystem
-A small server - client app made for Distributed Systems class at the Information and Communication Systems Enginnering department
+A small server - client app made for the Distributed Systems class at the Information and Communication Systems Enginnering department
+using Java RMI
